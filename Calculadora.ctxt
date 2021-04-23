@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Calculadora
+comment1.params=a\ b\ c
+comment1.target=java.lang.String\ Ecuacion(double,\ double,\ double)
+comment1.text=Dados\ los\ valores\ de\ a,\ b\ y\ c\ de\ una\ ecuaci\u00F3n\ de\ segundo\ grado.\ \r\nDevolver\ los\ dos\ valores\ que\ podr\u00EDa\ tener\ X.
+comment2.params=x1\ y1\ x2\ y2
+comment2.target=java.lang.String\ Recta(double,\ double,\ double,\ double)
+comment2.text=\ Dados\ las\ coordenadas\ de\ dos\ puntos.\ \r\nEs\ capaz\ de\ encontrar\ la\ ecuaci\u00F3n\ de\ la\ recta\ de\ dichos\ puntos.
+comment3.params=cateto\ hipotenusa
+comment3.target=java.lang.String\ Cateto(double,\ double)
+comment3.text=\ Dados\ la\ hipotenusa\ y\ el\ cateto\ de\ un\ triangulo\ rect\u00E1ngulo.\ \r\nIndicar\ cual\ es\ el\ valor\ del\ cateto\ faltante.
+numComments=4

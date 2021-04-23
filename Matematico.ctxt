@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Matematico
+comment1.params=calcu
+comment1.target=java.lang.String\ usarCalculadora(Calculadora)
+comment2.params=a\ b\ c
+comment2.target=java.lang.String\ valoresDeX(double,\ double,\ double)
+comment3.params=x1\ y1\ x2\ y2
+comment3.target=java.lang.String\ ecuacionRecta(double,\ double,\ double,\ double)
+comment4.params=cateto\ hipotenusa
+comment4.target=java.lang.String\ catetoFaltante(double,\ double)
+numComments=5
